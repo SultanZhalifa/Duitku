@@ -1,5 +1,14 @@
 # Duitku — Expense Tracker
 
+[![Live demo](https://img.shields.io/badge/Live%20demo-Open-2BB673?style=for-the-badge)](https://sultanzhalifa.github.io/Duitku/)
+[![Deploy web demo](https://github.com/SultanZhalifa/Duitku/actions/workflows/deploy-web.yml/badge.svg)](https://github.com/SultanZhalifa/Duitku/actions/workflows/deploy-web.yml)
+
+**Live demo:** https://sultanzhalifa.github.io/Duitku/
+
+> The web demo runs the same code as the mobile app. Native-only features
+> (biometric lock and local notifications) are automatically hidden in the
+> browser, where they aren't supported.
+
 A clean, **offline-first** personal finance app built with **Flutter** and
 **Material 3**. Track income, expenses, and transfers across multiple wallets
 and currencies; set budgets; automate recurring transactions; understand your
